@@ -2,7 +2,7 @@
 
 # Bleya Logo
 
-![Bleya Logo](https://raw.githubusercontent.com/usuario/repo/main/public/logo.svg)
+![Bleya Logo](https://raw.githubusercontent.com/RazielLimaa/Bleya/main/public/logo.svg)
 
 
 ## Sobre a Bleya 🏆
