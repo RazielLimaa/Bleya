@@ -28,7 +28,7 @@ Ser referência no desenvolvimento de tecnologias inovadoras, promovendo a evolu
 
 ## Projetos Recentes
 
-Nos últimos 2 meses, concluímos com sucesso 10 projetos para diversos clientes:
+Os proximos projetos para os proximos 2 meses!!!!
 
 ```mermaid
 graph TD;
