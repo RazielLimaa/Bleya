@@ -1,6 +1,8 @@
 # Bleya 🚀
 
-![Bleya Logo](data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20100%20100%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cpath%20d%3D%22M50%2095C75%2095%2095%2075%2095%2050C95%2025%2075%205%2050%205C25%205%205%2025%2050%2050C5%2075%2025%2095%2050%2095Z%22%20fill%3D%22%23000000%22%2F%3E%3Ccircle%20cx%3D%2235%22%20cy%3D%2230%22%20r%3D%223%22%20fill%3D%22white%22%2F%3E%3Ccircle%20cx%3D%2240%22%20cy%3D%2215%22%20r%3D%223%22%20fill%3D%22white%22%2F%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2225%22%20r%3D%223%22%20fill%3D%22white%22%2F%3E%3Ccircle%20cx%3D%2265%22%20cy%3D%2230%22%20r%3D%223%22%20fill%3D%22white%22%2F%3E%3Ccircle%20cx%3D%2275%22%20cy%3D%2240%22%20r%3D%223%22%20fill%3D%22white%22%2F%3E%3Cpath%20d%3D%22M50%2035V50M50%2050H40M50%2050H60%22%20stroke%3D%22white%22%20stroke-width%3D%225%22%20stroke-linecap%3D%22round%22%2F%3E%3Cpath%20d%3D%22M30%2060H45M55%2060H70%22%20stroke%3D%22white%22%20stroke-width%3D%225%22%20stroke-linecap%3D%22round%22%2F%3E%3Cpath%20d%3D%22M25%2070H40M60%2070H75%22%20stroke%3D%22white%22%20stroke-width%3D%225%22%20stroke-linecap%3D%22round%22%2F%3E%3C%2Fsvg%3E)
+# Bleya Logo
+
+![Bleya Logo](https://raw.githubusercontent.com/usuario/repo/main/public/logo.svg)
 
 
 ## Sobre a Bleya 🏆
