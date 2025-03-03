@@ -3,10 +3,9 @@ import { motion, useScroll } from 'framer-motion';
 import { useInView } from 'react-intersection-observer';
 import { ArrowDown, Code, Database, Layers, Zap } from 'lucide-react';
 import gsap from 'gsap';
-// @ts-ignore
-import TextPressure from '../components/TextPressure';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
 // @ts-ignore
+import TextPressure from '../components/TextPressure';
 import Waves from './Waves';
 
 
