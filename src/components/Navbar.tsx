@@ -143,7 +143,7 @@ const Navbar: React.FC = () => {
           ))}
         </motion.nav>
 
-        {/* Mobile Menu Button */}
+        {/* Mobile Menu Button - Only visible on mobile */}
         <motion.button 
           className="md:hidden relative z-50 w-10 h-10 flex items-center justify-center"
           onClick={() => setIsOpen(!isOpen)}
@@ -177,7 +177,7 @@ const Navbar: React.FC = () => {
         </motion.button>
       </div>
 
-      {/* Mobile Menu */}
+      {/* Mobile Menu - Only visible on mobile */}
       <AnimatePresence>
         {isOpen && (
           <motion.div 
