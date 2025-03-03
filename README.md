@@ -32,7 +32,7 @@ Os proximos projetos para os proximos 2 meses!!!!
 
 ```mermaid
 graph TD;
-    title[Projetos Concluídos nos Últimos 2 Meses]
+    title[Proximos Projetos Até o 100° projeto]
     style title fill:none,stroke:none
     
     subgraph Abril
