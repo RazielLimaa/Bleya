@@ -104,7 +104,7 @@ const Navbar: React.FC = () => {
       <div className="container mx-auto px-6 flex justify-between items-center">
         <Link to="/" className="flex items-center space-x-2 text-2xl font-bold">
           <svg className="w-12 h-12" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
-            <path d="M50 90C72.0914 90 90 72.0914 90 50C90 27.9086 72.0914 10 50 10C27.9086 10 10 27.9086 10 50C10 72.0914 27.9086 90 50 90Z" fill="#000000"/>
+            <path d="M50 90C72.0914 90 90 72.0914 90 50C90 27.9086 72.0914 10 50 10C27.9086 10 10 27.9086 10 50C10 72.0914 27.9086 90 50 90Z" fill="none"/>
             <circle cx="35" cy="30" r="3" fill="currentColor" className="text-purple-500"/>
             <circle cx="40" cy="15" r="3" fill="currentColor" className="text-purple-500"/>
             <circle cx="50" cy="25" r="3" fill="currentColor" className="text-purple-500"/>
