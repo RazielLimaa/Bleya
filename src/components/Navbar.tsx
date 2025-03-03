@@ -181,7 +181,7 @@ const Navbar: React.FC = () => {
       <AnimatePresence>
         {isOpen && (
           <motion.div 
-            className="fixed inset-0 bg-black/95 backdrop-blur-lg z-40 md:hidden"
+            className="md:hidden fixed inset-0 bg-black/95 backdrop-blur-lg z-40 "
             initial="closed"
             animate="open"
             exit="closed"
